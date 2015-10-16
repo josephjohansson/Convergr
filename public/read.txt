@@ -1,0 +1,2 @@
+In Meteor we keep public assets in here things such as fonts etc.
+These are acessible by the public.

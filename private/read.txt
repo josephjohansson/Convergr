@@ -1,0 +1,2 @@
+In meteor this folder has assets that are used on the server side only.
+The public has no acess to these.

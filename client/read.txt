@@ -1,0 +1,1 @@
+This in this folder are only executed in the client side despite what you write in file.js

@@ -1,0 +1,2 @@
+Files in this folder are loaded before everything else in the applicaiton.
+This folder can be used to create funcitonality that is needed before the app is run.
